@@ -24,8 +24,8 @@
 
 [![Portfolio](https://img.shields.io/badge/◈_PORTFOLIO-FF003C?style=for-the-badge&logoColor=white)](https://munishmadav.dev)
 [![GitHub](https://img.shields.io/badge/◈_GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=00FFFF)](https://github.com/munish1303)
-[![LinkedIn](https://img.shields.io/badge/◈_LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/munishmadav)
-[![Email](https://img.shields.io/badge/◈_CONTACT-FF003C?style=for-the-badge&logo=gmail&logoColor=white)](mailto:munish@example.com)
+[![LinkedIn](https://img.shields.io/badge/◈_LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/munish-madhav/)
+[![Email](https://img.shields.io/badge/◈_CONTACT-FF003C?style=for-the-badge&logo=gmail&logoColor=white)](mailto:munishmadhavm@gmail.com)
 
 </div>
 
@@ -243,8 +243,8 @@ C / Systems           ██████████░░░░░░░░░�
 ╚══════════════════════════════════════════════════════╝
 ```
 
-[![Email](https://img.shields.io/badge/◈_SEND_TRANSMISSION-FF003C?style=for-the-badge&logo=gmail&logoColor=white)](mailto:munish@example.com)
-[![LinkedIn](https://img.shields.io/badge/◈_CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/munishmadav)
+[![Email](https://img.shields.io/badge/◈_SEND_TRANSMISSION-FF003C?style=for-the-badge&logo=gmail&logoColor=white)](mailto:munishmadhavm@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/◈_CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/munish-madhav/)
 [![GitHub](https://img.shields.io/badge/◈_FOLLOW-0D1117?style=for-the-badge&logo=github&logoColor=00FFFF)](https://github.com/munish1303)
 
 </div>
