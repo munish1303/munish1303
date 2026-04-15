@@ -1,329 +1,264 @@
 <div align="center">
 
-![Hero](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzFtZzR4aW5pY3I3cHd3OHZ6dDZ6dXNqY3RsZzBuMDVtbzJ4eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oEjI6SIIHBdRxXI40/giphy.gif)
+```
+███╗   ███╗██╗   ██╗███╗   ██╗██╗███████╗██╗  ██╗
+████╗ ████║██║   ██║████╗  ██║██║██╔════╝██║  ██║
+██╔████╔██║██║   ██║██╔██╗ ██║██║███████╗███████║
+██║╚██╔╝██║██║   ██║██║╚██╗██║██║╚════██║██╔══██║
+██║ ╚═╝ ██║╚██████╔╝██║ ╚████║██║███████║██║  ██║
+╚═╝     ╚═╝ ╚═════╝ ╚═╝  ╚═══╝╚═╝╚══════╝╚═╝  ╚═╝
+```
 
-# ✦ P R I S M A T I C
+# ⚡ MUNISH MADHAV ⚡
+### `[ FULL-STACK DEVELOPER · AI BUILDER · DIGITAL ARCHITECT ]`
 
-### *Where geometry meets godhood. Design beyond the third dimension.*
-
-<br/>
-
-[![Next.js](https://img.shields.io/badge/Next.js_15-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
-[![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)](https://www.framer.com/motion/)
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![Vercel](https://img.shields.io/badge/Deployed_on_Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/)
-
-<br/>
-
-> **"Not a portfolio. Not a playground. A dimension you step into."**
+![Cyberpunk Banner](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)
 
 <br/>
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-a855f7?style=flat-square)](LICENSE)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-06b6d4?style=flat-square)](CONTRIBUTING.md)
-[![Stars](https://img.shields.io/github/stars/yourusername/prismatic?style=flat-square&color=facc15)](https://github.com/yourusername/prismatic/stargazers)
-[![Made with ❤️](https://img.shields.io/badge/made_with-obsession-f43f5e?style=flat-square)]()
+> **`// I don't just write code. I architect digital realities.`**
+>
+> *Full-stack engineer obsessed with AI, real-time systems, and products that feel alive.*
+
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/◈_PORTFOLIO-FF003C?style=for-the-badge&logoColor=white)](https://munishmadav.dev)
+[![GitHub](https://img.shields.io/badge/◈_GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=00FFFF)](https://github.com/munish1303)
+[![LinkedIn](https://img.shields.io/badge/◈_LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/munishmadav)
+[![Email](https://img.shields.io/badge/◈_CONTACT-FF003C?style=for-the-badge&logo=gmail&logoColor=white)](mailto:munish@example.com)
 
 </div>
 
 ---
 
-<br/>
-
-## 〇 The Premise
-
-**Prismatic** is not a website. It's a *spatial experience* — an immersive 3D design studio built for creators who find flat design offensively boring. Every scroll triggers a story. Every hover rewrites reality. Every element exists in three dimensions, breathing, rotating, responding.
-
-Built for designers, artists, and digital architects who demand that their portfolio match the quality of their imagination.
-
-<br/>
+```diff
++ STATUS       : ONLINE
++ LOCATION     : India
++ AVAILABILITY : Open to Opportunities
+- SLEEP        : Optional
+```
 
 ---
 
-## ✦ The Magic Inside
+## ◈ SYSTEM PROFILE
+
+```yaml
+name:         Munish Madhav
+handle:       munish1303
+class:        Full-Stack Developer / AI Engineer
+domains:      Web · Mobile · AI · Systems · Game Dev
+weapons:      React, Next.js, React Native, Python, TypeScript, Java, C
+current_ops:  AI-powered tools · Social platforms · Mobile apps · Games
+threat_level: CRITICAL  # (to mediocre software)
+```
+
+---
+
+## ◈ TECH ARSENAL
 
 <div align="center">
 
-![Hover Effects Demo](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzZnMG83NnZncXZ5ZWd5NTloMWxpbXlxdGFjYml5eWNhMnZzY2d0NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9IgzoKnwFNmISR8I/giphy.gif)
+### ▸ FRONTEND GRID
 
-*↑ Hover states that make your cursor feel like a magic wand*
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev)
+[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=00FFFF)](https://nextjs.org)
+[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://typescriptlang.org)
+[![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com)
+[![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=FF003C)](https://reactnative.dev)
+[![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)](https://expo.dev)
+
+### ▸ BACKEND INFRASTRUCTURE
+
+[![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=FFD43B)](https://python.org)
+[![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=00FFFF)](https://flask.palletsprojects.com)
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org)
+[![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)](https://supabase.com)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://mysql.com)
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://java.com)
+
+### ▸ SPECIALTY WEAPONS
+
+[![Godot 4](https://img.shields.io/badge/Godot_4-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)](https://godotengine.org)
+[![Pygame](https://img.shields.io/badge/Pygame-3670A0?style=for-the-badge&logo=python&logoColor=white)](https://pygame.org)
+[![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org)
+[![C](https://img.shields.io/badge/C_Language-00599C?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
+[![Chrome Ext](https://img.shields.io/badge/Chrome_Extension-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://developer.chrome.com/docs/extensions)
 
 </div>
 
-<br/>
+---
 
-### 🌀 Spatial Scene Engine
-**Shatters** the 2D plane. Every card, panel, and section **floats**, **rotates**, and **breathes** in a fully orchestrated 3D canvas — no WebGL dependencies, pure CSS transforms weaponized by Framer Motion's physics engine.
+## ◈ MISSION LOGS — ACTIVE OPERATIONS
 
-### ⚡ Scroll-Sculpted Narratives
-**Hijacks** your scroll velocity and **converts** it into cinematic timeline scrubbing. As you descend, scenes **unfold**, objects **morph**, and layouts **reconstruct** themselves in real time. Gravity is optional here.
-
-### 🔮 Magnetic Cursor Intelligence
-**Tracks**, **anticipates**, and **reacts** to your cursor with fluid magnetic pull effects. Elements **lean toward** your mouse like sunflowers chasing light — every micro-interaction is a micro-delight.
-
-### 🎨 Adaptive Color Consciousness
-**Reads** the ambient scroll position and **mutates** the color system dynamically. The studio breathes through a living palette — shifting from deep obsidian to aurora gradients as you traverse each section.
-
-### 🧊 Glassmorphism with Depth-of-Field
-**Layers** translucent panels with physically accurate blur falloff. Background elements **defocus** as foreground elements **crystallize** — creating genuine spatial depth without a single line of WebGL.
-
-### 🚀 Zero-Layout-Shift Animations
-**Orchestrates** all entry animations using `LayoutGroup` to guarantee zero cumulative layout shift. Beautiful *and* Lighthouse-perfect. Rare combination. You're welcome.
-
-<br/>
+> *Every repo is a deployment. Every commit, a strike into the unknown.*
 
 ---
 
-## ✦ Visual Showcase
+### 〔 01 〕 `HUNTD_LENS` — Sales Intelligence Chrome Extension
+![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Updated](https://img.shields.io/badge/Updated-Yesterday-00FFFF?style=flat-square)
+
+> An essential sidebar for modern sales teams — **enriches LinkedIn profiles with real-time competitive intelligence and lead scoring.** Eliminates manual research, surfaces insights that close deals.
+
+---
+
+### 〔 02 〕 `CIRCLE-SOCIAL_MEDIA` — Privacy-First Social Platform
+![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Updated](https://img.shields.io/badge/Updated-Last_Week-00FFFF?style=flat-square)
+
+> Full-stack social app built with **React 19 + Supabase**. Ditches algorithms and ads for a clean, chronological feed. Privacy-by-default — no surveillance capitalism, no dark patterns.
+
+---
+
+### 〔 03 〕 `HOTELAPP` — Mobile Restaurant Management System
+![TS](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![Updated](https://img.shields.io/badge/Updated-Last_Week-00FFFF?style=flat-square)
+
+> Built with **React Native + Expo**. A unified command center for restaurant owners — manage menus, track orders in real time, and monitor customer activity from a single mobile interface.
+
+---
+
+### 〔 04 〕 `SOCIAL-MEDIA-APP` — Instagram-Variant Privacy Prototype
+![TS](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![Updated](https://img.shields.io/badge/Updated-Last_Week-00FFFF?style=flat-square)
+
+> Another Circle variant — **Instagram-styled UI, algorithm-free feed**, designed for authentic connection over engagement farming. Zero manipulation baked into the architecture.
+
+---
+
+### 〔 05 〕 `CASHPILOT-SNUHACK` — AI Financial Autopilot for SMBs
+![PY](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=FFD43B) ![Updated](https://img.shields.io/badge/Updated-Last_Week-00FFFF?style=flat-square)
+
+> AI-driven financial co-pilot for small and medium businesses. **Monitors cash flow in real time, predicts runway, optimizes strategies via linear programming.** Hackathon-born, production-grade vision.
+
+---
+
+### 〔 06 〕 `ROAD-RASH-3D-GODOT` — 3D Neon Combat Racing Game
+![GD](https://img.shields.io/badge/GDScript-478CBF?style=flat-square&logo=godotengine&logoColor=white) ![Updated](https://img.shields.io/badge/Updated-Last_Week-00FFFF?style=flat-square)
+
+> Built in **Godot 4**. Race AI opponents on a neon-lit highway, attack rivals, collect boost capsules, and cross the finish line. Classic Road Rash energy — fully 3D, fully unhinged.
+
+---
+
+### 〔 07 〕 `AME-AEROMAIN` — Offline AI Aircraft Maintenance Assistant
+![DART](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) ![Updated](https://img.shields.io/badge/Updated-Last_Week-00FFFF?style=flat-square)
+
+> AI-powered tool for aircraft maintenance engineers operating with **zero internet connectivity**. 100% offline-capable, real-time camera integration. Mission-critical software for real-world ops.
+
+---
+
+### 〔 08 〕 `ROADRASH` — 2D Pseudo-3D Arcade Combat Game
+![PY](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=FFD43B) ![Updated](https://img.shields.io/badge/Updated-Last_Week-00FFFF?style=flat-square)
+
+> Classic 1991 Road Rash, rebuilt from scratch in **Python + Pygame**. AI opponent, three tracks, rival attacks, hazard dodging. Proof that great games don't need AAA budgets.
+
+---
+
+### 〔 09 〕 `LIBRARYSYSTEMREACT` — Full-Stack Library Manager
+![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Updated](https://img.shields.io/badge/Updated-2_Weeks_Ago-FFD700?style=flat-square)
+
+> **React + Node.js/Express + MySQL** full-stack book management system. Dark/light UI, full CRUD, live search, real-time updates. Professional-grade library software.
+
+---
+
+### 〔 10 〕 `EVENTREGISTRATIONAJAX` — Dynamic Event Registration System
+![Updated](https://img.shields.io/badge/Updated-2_Weeks_Ago-FFD700?style=flat-square)
+
+> Built with **Java Servlets + AJAX** for seamless async data handling. Responsive UI communicating with server-side logic without page reloads — the old-school art of making things fast.
+
+---
+
+### 〔 11 〕 `ML_LAB_SEM6` — Machine Learning Lab Repository
+![JN](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) ![License](https://img.shields.io/badge/MIT_License-green?style=flat-square) ![Updated](https://img.shields.io/badge/Updated-2_Weeks_Ago-FFD700?style=flat-square)
+
+> A full semester's worth of **ML experiments, assignments, and algorithm implementations**. Practical applications of machine learning — from fundamentals to real models.
+
+---
+
+### 〔 12 〕 `SECUREVAULT` — Flask Full-Stack Password Manager
+![PY](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=FFD43B) ![Updated](https://img.shields.io/badge/Updated-3_Weeks_Ago-FF003C?style=flat-square)
+
+> Full-stack **Flask password manager** with encrypted storage, strong authentication, and clean UI. Your credentials — locked behind modern security, not vibes.
+
+---
+
+### 〔 13 〕 `FOOD-DELIVERY-APPLICATION` — C-Based Logistics Engine
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) ![Updated](https://img.shields.io/badge/Updated-3_Weeks_Ago-FF003C?style=flat-square)
+
+> A raw **Dijkstra's algorithm implementation in C** solving the Last-Mile Delivery problem across a simulated urban graph. Pathfinding at its most fundamental and brutal.
+
+---
+
+### 〔 14 〕 `CUSTOMERAPP` — Cross-Platform Food Ordering App `[PRIVATE]`
+![TS](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![Updated](https://img.shields.io/badge/Updated-3_Weeks_Ago-FF003C?style=flat-square)
+
+> **React Native + Expo** campus food ordering app. Browse menus, place orders, split bills — all in one mobile-first experience.
+
+---
+
+### 〔 15 〕 `COMPLAINT-SYSTEM` — Online Grievance Redressal Platform
+![JAVA](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Updated](https://img.shields.io/badge/Updated-Feb_2025-FF003C?style=flat-square)
+
+> Full-stack Java web app streamlining the **grievance redressal process** — connecting users and administrators for complaint registration, tracking, and resolution.
+
+---
+
+## ◈ SIGNAL STRENGTH
 
 <div align="center">
 
-| Interaction | Preview |
-|:-----------:|:-------:|
-| **Page Load Sequence** | ![Load](https://media.giphy.com/media/placeholder-load/giphy.gif) |
-| **3D Card Tilt on Hover** | ![Tilt](https://media.giphy.com/media/placeholder-tilt/giphy.gif) |
-| **Scroll-Triggered Morphing** | ![Morph](https://media.giphy.com/media/placeholder-morph/giphy.gif) |
-| **Magnetic Cursor Trails** | ![Cursor](https://media.giphy.com/media/placeholder-cursor/giphy.gif) |
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=munish1303&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D0D0D&title_color=00FFFF&text_color=FF003C&icon_color=FFD700)
 
-*Replace placeholder GIF links with your actual screen recordings*
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=munish1303&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D0D0D&title_color=00FFFF&text_color=FF003C)
+
+![Streak](https://streak-stats.demolab.com?user=munish1303&theme=dark&hide_border=true&background=0D0D0D&ring=00FFFF&fire=FF003C&currStreakLabel=FFD700)
 
 </div>
 
-<br/>
+---
+
+## ◈ SKILL MATRIX
+
+```
+Frontend Development  ████████████████████ 95%  ▸ ELITE
+React / React Native  ███████████████████░ 90%  ▸ ELITE
+Python / AI-ML        ████████████████░░░░ 80%  ▸ ADVANCED
+TypeScript            ███████████████░░░░░ 75%  ▸ ADVANCED
+System Design         ██████████████░░░░░░ 70%  ▸ ADVANCED
+Game Development      ████████████░░░░░░░░ 60%  ▸ OPERATIVE
+Java / Backend        ███████████░░░░░░░░░ 55%  ▸ OPERATIVE
+C / Systems           ██████████░░░░░░░░░░ 50%  ▸ OPERATIVE
+```
 
 ---
 
-## ✦ Tech Constellation
+## ◈ INCOMING TRANSMISSION
 
 <div align="center">
 
 ```
-                        ★ PRISMATIC STACK ★
-
-              [Next.js 15]  ──────────  [App Router]
-                   │                        │
-                   ▼                        ▼
-           [Framer Motion] ◄──── [React 19 Server Components]
-                   │
-          ┌────────┴────────┐
-          ▼                 ▼
-    [Tailwind CSS]    [CSS Variables]
-          │                 │
-          └────────┬────────┘
-                   ▼
-           [TypeScript 5.5]
-                   │
-          ┌────────┴────────┐
-          ▼                 ▼
-     [Vercel Edge]    [Turbopack]
+╔══════════════════════════════════════════════════════╗
+║                                                      ║
+║   Got a mission? A collab? Something that needs      ║
+║   a builder who actually gives a damn about craft?   ║
+║                                                      ║
+║   ►  Drop into my inbox. I respond fast.            ║
+║                                                      ║
+╚══════════════════════════════════════════════════════╝
 ```
+
+[![Email](https://img.shields.io/badge/◈_SEND_TRANSMISSION-FF003C?style=for-the-badge&logo=gmail&logoColor=white)](mailto:munish@example.com)
+[![LinkedIn](https://img.shields.io/badge/◈_CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/munishmadav)
+[![GitHub](https://img.shields.io/badge/◈_FOLLOW-0D1117?style=for-the-badge&logo=github&logoColor=00FFFF)](https://github.com/munish1303)
 
 </div>
 
-<br/>
-
-| Layer | Technology | Why It's Here |
-|-------|-----------|---------------|
-| 🏗️ **Framework** | Next.js 15 (App Router) | File-based routing that doesn't make you cry |
-| 🎨 **Styling** | Tailwind CSS v4 | Utility-first, zero-compromise, criminally fast |
-| 🎭 **Animation** | Framer Motion 11 | Physics-based motion that makes designers weep with joy |
-| 🔷 **Language** | TypeScript 5.5 | Because `any` is a character flaw |
-| 🚀 **Deployment** | Vercel + Edge Runtime | Sub-50ms TTFB globally. It's not magic, it's engineering |
-| 📦 **Bundler** | Turbopack | Webpack had a good run. This is faster |
-
-<br/>
-
----
-
-## ✦ Quick Start
-
-> Fire up your terminal. This takes 90 seconds, not 90 minutes.
-
-```bash
-# ── CLONE THE DIMENSION ──────────────────────────────────
-git clone https://github.com/yourusername/prismatic.git
-cd prismatic
-
-# ── INSTALL THE ARSENAL ──────────────────────────────────
-pnpm install
-# (or npm install, but seriously — use pnpm)
-
-# ── CONFIGURE YOUR ENVIRONMENT ───────────────────────────
-cp .env.example .env.local
-# Edit .env.local with your values
-
-# ── IGNITE THE DEV SERVER ────────────────────────────────
-pnpm dev
-
-# ── OPEN AND FEEL THE SHIFT ──────────────────────────────
-# → http://localhost:3000
-```
-
-```bash
-# ── PRODUCTION BUILD ─────────────────────────────────────
-pnpm build && pnpm start
-
-# ── DEPLOY TO THE EDGE ───────────────────────────────────
-vercel --prod
-```
-
-<br/>
-
----
-
-## ✦ Performance Metrics
-
-> We didn't just build fast. We built *unreasonably* fast.
-
-<div align="center">
-
-### 🏆 Lighthouse Scores
-
-| Metric | Score | Bar |
-|--------|------:|-----|
-| ⚡ **Performance** | **99** / 100 | `█████████████████████████████████████████████████▌` |
-| ♿ **Accessibility** | **100** / 100 | `██████████████████████████████████████████████████` |
-| ✅ **Best Practices** | **100** / 100 | `██████████████████████████████████████████████████` |
-| 🔍 **SEO** | **100** / 100 | `██████████████████████████████████████████████████` |
-
-<br/>
-
-### ⚙️ Core Web Vitals
-
-| Vital | Value | Status |
-|-------|-------|--------|
-| **LCP** — Largest Contentful Paint | `0.8s` | 🟢 Excellent |
-| **FID** — First Input Delay | `< 1ms` | 🟢 Excellent |
-| **CLS** — Cumulative Layout Shift | `0.00` | 🟢 Perfect |
-| **TTFB** — Time to First Byte | `42ms` | 🟢 Blazing |
-| **FCP** — First Contentful Paint | `0.6s` | 🟢 Excellent |
-
-</div>
-
-<br/>
-
----
-
-## ✦ File Architecture
-
-```
-prismatic/
-├── 📁 app/
-│   ├── layout.tsx          # Root layout + metadata
-│   ├── page.tsx            # The experience begins here
-│   └── globals.css         # CSS variables, base tokens
-│
-├── 📁 components/
-│   ├── 📁 3d/              # All spatial/depth components
-│   │   ├── TiltCard.tsx
-│   │   ├── FloatingOrb.tsx
-│   │   └── ParallaxLayer.tsx
-│   ├── 📁 ui/              # Atomic design components
-│   ├── 📁 sections/        # Full-page section compositions
-│   └── 📁 cursor/          # Magnetic cursor system
-│
-├── 📁 hooks/
-│   ├── useMagneticCursor.ts
-│   ├── useScrollProgress.ts
-│   └── useReducedMotion.ts
-│
-├── 📁 lib/
-│   ├── animations.ts       # Framer Motion variants library
-│   └── utils.ts            # cn(), clamp(), etc.
-│
-└── 📁 public/
-    └── 📁 assets/          # Static media, SVGs, fonts
-```
-
-<br/>
-
----
-
-## ✦ Mission Log — Roadmap
-
-```
-OPERATION: PRISMATIC
-STATUS: ACTIVE
-```
-
-**Phase 01 — Foundation** *(Completed)*
-- [x] Next.js 15 App Router scaffold
-- [x] Tailwind v4 token system
-- [x] Framer Motion animation library
-- [x] Magnetic cursor system
-- [x] 3D tilt card component
-- [x] Responsive grid architecture
-
-**Phase 02 — The Experience** *(In Progress)*
-- [x] Hero section with depth-of-field blur
-- [x] Scroll-driven timeline animations
-- [ ] Adaptive color consciousness system
-- [ ] Custom cursor trail particles
-- [ ] Section-to-section morph transitions
-
-**Phase 03 — Polish & Power** *(Planned)*
-- [ ] GSAP ScrollTrigger hybrid integration
-- [ ] Project case study template pages
-- [ ] Dark / light / void mode switcher
-- [ ] Command palette (`⌘K`) navigation
-- [ ] Reduced motion accessibility mode
-- [ ] Internationalisation (i18n) support
-
-**Phase 04 — Beyond** *(Dreaming)*
-- [ ] WebGL shader post-processing layer
-- [ ] AI-generated background art via Replicate API
-- [ ] Real-time collaborative cursor presence
-- [ ] CMS integration (Sanity / Contentlayer)
-
-<br/>
-
----
-
-## ✦ Contributing
-
-This dimension welcomes architects. Read [`CONTRIBUTING.md`](CONTRIBUTING.md) before opening a PR — we have opinions on commit message formatting and they are strong opinions.
-
-```bash
-# Branch naming convention
-git checkout -b feat/your-feature-name
-git checkout -b fix/what-you-repaired
-git checkout -b chore/boring-but-necessary
-```
-
-<br/>
-
----
-
-## ✦ License
-
-**MIT** — Take it. Build with it. Ship something extraordinary.  
-The only rule: don't make something boring.
-
-See [`LICENSE`](LICENSE) for the legalese.
-
-<br/>
-
 ---
 
 <div align="center">
 
-**Built with obsessive attention to detail.**  
-**Powered by caffeine, curiosity, and Framer Motion physics.**
-
-<br/>
-
-*If this project made you feel something — give it a ⭐*
-
-<br/>
-
-[![Twitter](https://img.shields.io/badge/Follow_the_build-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/yourusername)
-[![Portfolio](https://img.shields.io/badge/See_the_work-a855f7?style=for-the-badge&logo=safari&logoColor=white)](https://yourportfolio.com)
-
-<br/>
-
 ```
-P R I S M A T I C  ·  2025  ·  EVERY PIXEL INTENTIONAL
+[ END OF FILE ]  ·  munish1303  ·  ALL SYSTEMS NOMINAL
 ```
+
+*"The grid runs on those who ship."*
+
+**© 2025 Munish Madhav — Built with obsession, shipped with precision.**
 
 </div>
