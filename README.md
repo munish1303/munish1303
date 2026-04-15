@@ -12,7 +12,7 @@
 # ⚡ MUNISH MADHAV ⚡
 ### `[ FULL-STACK DEVELOPER · AI BUILDER · DIGITAL ARCHITECT ]`
 
-![Cyberpunk Banner](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDBvMHRodml1cHlmYmQ3c3oyd2VvaWo5M25pdzg1YTFpZDlpNHFkaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WvQNnMcTsOy8RAaK4m/giphy.gif)
+![Cyberpunk Banner](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjFuNjQ5OHptb2dqOGxwZXMzbHQzdGlmMGJjdTZxNWQ4Z3oyaXk4cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sULKEgDMX8LcI/giphy.gif)
 
 <br/>
 
